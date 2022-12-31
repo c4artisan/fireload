@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="infographics" name="Video Infographics" cc_theme_id="infographics">
-  <background id="g4b_bg001.swf" name="Plain" enable="Y" default="Y" is_premium="N" aid="24208" money="0" sharing="0"/>
-  <background id="g4b_bg002.swf" name="Plain" enable="Y" default="N" is_premium="N" aid="24209" money="0" sharing="0"/>
-  <background id="g4b_bg003.swf" name="Plain" enable="Y" default="N" is_premium="N" aid="24210" money="0" sharing="0"/>
-  <background id="g4b_bg004.swf" name="Split" enable="Y" default="N" is_premium="N" aid="24211" money="0" sharing="0"/>
+  <background id="g4b_bg001.swf" name="Plain" enable="N" default="N" is_premium="N" aid="24208" money="0" sharing="0"/>
+  <background id="g4b_bg002.swf" name="Plain" enable="N" default="N" is_premium="N" aid="24209" money="0" sharing="0"/>
+  <background id="g4b_bg003.swf" name="Plain" enable="N" default="N" is_premium="N" aid="24210" money="0" sharing="0"/>
+  <background id="g4b_bg004.swf" name="Split" enable="N" default="N" is_premium="N" aid="24211" money="0" sharing="0"/>
   <background id="g4b_bg178.swf" name="Color - Wallpaper" enable="Y" default="N" is_premium="N" aid="30542" money="0" sharing="0" category="patterns">
     <color r="Color_A">2E4A5D</color>
     <color r="Color_B">F35450</color>
