@@ -10,5 +10,13 @@
 <prop id="onlineoutline.png" name="Redrawn Online paintbrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
 <prop id="mobilebrush.png" name="Redrawn Mobilebrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
 <prop id="legacypaintbrush.png" name="Redrawn Legacy paintbrush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="wa.png" name="WaybackAnimate logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="bevel.png" name="WaybackAnimate beveled logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="anistick.png" name="Anistick logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="ga1.png" name="GoAnimate 2007 logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="ga2.png" name="GoAnimate 2010 logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="ga3.png" name="GoAnimate 2013 logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="ga4s.png" name="GoAnimate For Schools logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
+<prop id="vyond.png" name="Vyond logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="73774" money="0" sharing="0"/>
 
 </theme>
